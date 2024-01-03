@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Redirection automatique en HTML</title>
+ 
+<script src=https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs type="module"></script> 
+ 
+<meta http-equiv="refresh" content="5; URL=https://maximedematharel.framer.website/">
+ 
+</head>
+ 
+<body>
+ 
+<div class="loader-container">
+<dotlottie-player src=https://lottie.host/6bb63df8-a777-46d5-b649-9d2a6777c63c/9wmGeXqtoQ.json background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+</div>
+ 
+ 
+ 
+</body>
+ 
+</html>
